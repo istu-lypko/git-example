@@ -3,5 +3,5 @@ TEST
 new changes from new Dev
 new changes from new Dev
 new changes from new Dev
-new changes from new Dev
+inline editing example
 new changes from new Dev
